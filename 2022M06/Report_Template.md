@@ -318,7 +318,7 @@ solve('test3')  # 插入一千万条记录
 8. 实验结果：<br>
 插入一万条记录数据库查询示例以及性能图<br>
 ![test1](https://github.com/kidkabukino/DB2022FALL/blob/main/2022M06/test1.jpg)<br>
-![10000](https://github.com/kidkabukino/DB2022FALL/blob/main/2022M06/10000.png)<br>
+![10000](https://github.com/kidkabukino/DB2022FALL/blob/main/2022M06/%E4%B8%80%E4%B8%87.png)<br>
 插入一百万条记录数据库查询示例以及性能图<br>
 ![test2](https://github.com/kidkabukino/DB2022FALL/blob/main/2022M06/test2.jpg)<br>
 ![1000000](https://github.com/kidkabukino/DB2022FALL/blob/main/2022M06/1000000.png)<br>
