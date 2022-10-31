@@ -317,14 +317,14 @@ solve('test3')  # 插入一千万条记录
 ```
 8. 实验结果：<br>
 插入一万条记录数据库查询示例以及性能图<br>
-![test1](test1.jpg)<br>
-![10000](10000.png)<br>
+![test1](https://github.com/kidkabukino/DB2022FALL/blob/main/2022M06/test1.jpg)<br>
+![10000](https://github.com/kidkabukino/DB2022FALL/blob/main/2022M06/10000.png)<br>
 插入一百万条记录数据库查询示例以及性能图<br>
-![test2](test2.jpg)<br>
-![1000000](1000000.png)<br>
+![test2](https://github.com/kidkabukino/DB2022FALL/blob/main/2022M06/test2.jpg)<br>
+![1000000](https://github.com/kidkabukino/DB2022FALL/blob/main/2022M06/1000000.png)<br>
 插入一千万条记录数据库查询示例以及性能图<br>
-![test3](test3.jpg)<br>
-![10000000](10000000.png)<br>
+![test3](https://github.com/kidkabukino/DB2022FALL/blob/main/2022M06/test3.jpg)<br>
+![10000000](https://github.com/kidkabukino/DB2022FALL/blob/main/2022M06/10000000.png)<br>
 
 # 三、实验总结
 通过图片可以看到SC表格插入最慢，其次是Student表格，最后是Course表格。随着记录量不同，耗时大约成正比增长。
